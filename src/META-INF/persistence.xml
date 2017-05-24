@@ -7,7 +7,7 @@
 		<validation-mode>NONE</validation-mode>
 		<properties>
 			<property name="eclipselink.ddl-generation.output-mode" value="both"/>
-        <property name="javax.persistence.jdbc.url" value="postgres://mzqxoerd:cHqUScqKS8mpCOTML0Kb98Nidq6jhyDq@echo-01.db.elephantsql.com:5432/mzqxoerd"/>
+        <property name="javax.persistence.jdbc.url" value="jdbc:postgres://mzqxoerd:cHqUScqKS8mpCOTML0Kb98Nidq6jhyDq@echo-01.db.elephantsql.com:5432/mzqxoerd"/>
         <property name="javax.persistence.jdbc.user" value="mzqxoerd"/>
         <property name="javax.persistence.jdbc.password" value="cHqUScqKS8mpCOTML0Kb98Nidq6jhyDq"/>
         <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
