@@ -7,10 +7,10 @@
 		<validation-mode>NONE</validation-mode>
 		<properties>
 			<property name="eclipselink.ddl-generation.output-mode" value="both"/>
-        <property name="javax.persistence.jdbc.url" value="jdbc:db2://75.126.155.153:50000/SQLDB:retrieveMessagesFromServerOnGetMessage=true;"/>
-        <property name="javax.persistence.jdbc.user" value="us16"/>
-        <property name="javax.persistence.jdbc.password" value="3J0"/>
-        <property name="javax.persistence.jdbc.driver" value="com.ibm.db2.jcc.DB2Driver"/>
+        <property name="javax.persistence.jdbc.url" value="postgres://mzqxoerd:cHqUScqKS8mpCOTML0Kb98Nidq6jhyDq@echo-01.db.elephantsql.com:5432/mzqxoerd:retrieveMessagesFromServerOnGetMessage=true;"/>
+        <property name="javax.persistence.jdbc.user" value="mzqxoerd"/>
+        <property name="javax.persistence.jdbc.password" value="cHqUScqKS8mpCOTML0Kb98Nidq6jhyDq"/>
+        <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
     </properties>
 			
 
